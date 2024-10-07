@@ -1,12 +1,9 @@
 Table de contenue
 -----------------------------------------
 
-
-+ [Napoleon Bonaparte](https://github.com/MZMada/TD-IUT/wiki/Napoleon-Ier)
-  -[Naissance](https://github.com/MZMada/TD-IUT/wiki/Naissance)
-
 <ul>
-  <li>Lorem ipsum dolor sit amet</li>
+  <li>[Napoleon Bonaparte](https://github.com/MZMada/TD-IUT/wiki/Napoleon-Ier)
+  -[Naissance](https://github.com/MZMada/TD-IUT/wiki/Naissance)</li>
   <li>Consectetur adipiscing elit</li>
   <li>Integer molestie lorem at massa</li>
   <li>Facilisis in pretium nisl aliquet</li>
