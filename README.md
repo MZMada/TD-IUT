@@ -1,56 +1,56 @@
 # 🚀 Créer un Serveur Garry's Mod sur MTXServ
 
-Ce guide va vous explique comment configurer un serveur Garry's Mod (autrement appeller Gmod) avec l’hébergeur **MTXServ**. MTXServ qui facilite l'installation et la prise en mains de serveur Gmod.
+Ce guide va vous t'apprendre à configurer un serveur Garry's Mod (autrement appeller Gmod) avec l’hébergeur **MTXServ**.
 
 ## 📋 Prérequis
 
 Avant tout il faut :
 
 - Un compte sur [MTXServ](https://mtxserv.com).
-- Acheter un serveur sur le site de MTXServ.
+- Acheté un serveur sur le site de MTXServ.
 - Enregisté l'accès à votre panel MTXServ.
 
-## 🔧 Installation et Configuration de Base
+## 🔧 Installation et Configuration
 
 ### Étape 1 : Commander un Serveur Garry's Mod
 
 1. Rendez-vous sur [MTXServ](https://mtxserv.com).
-2. Allez dans **Garry's Mod** et choisissez une offre de serveur en fonction de vos besoins (RAM, slots, cpu, etc.).
-3. Suivez les instructions et accéder à votre serveur via le **panel de gestion**.
+2. Allez dans **Garry's Mod** et choisissez un serveur en fonction des besoins (RAM, slots, cpu, etc...).
+3. Suivez les instructions pour accéder au serveur avec le **panel de gestion**.
 
 ### Étape 2 : Accéder au Panel de Gestion
 
 1. Connectez-vous à votre compte MTXServ.
-2. Allez dans **Mes Services** et sélectionnez votre serveur Garry's Mod.
-3. Vous arrivez maintenant sur le **Panel** de votre serveur où vous pouvez :
+2. Allez dans **Mes Services** et choisissez votre serveur Garry's Mod.
+3. Une fois sur le **Panel** de votre serveur vous pouvez :
    - Démarrer, redémarrer ou arrêter votre serveur.
-   - Gérer les fichiers et les configurations.
-   - Installer des addons ou des mods.
+   - Gérer les fichiers et les configurer.
+   - Installer des addons ou des maps.
 
 ### Étape 3 : Configurer le Serveur
 
-1. Allez dans l’onglet **Configuration** du panel de votre serveur.
-2. Modifiez le fichier `server.cfg` en ligne ou avec un accée ftp en ajoutant les paramètres suivants :
+1. Allez dans **Configuration** sur le panel de votre serveur.
+2. Modifiez le fichier `server.cfg` en ligne ou avec un accée ftp, en ajoutant les paramètres suivants :
 
    ```cfg
-   hostname "Mon Serveur Garry's Mod MTX"
-   sv_password ""  // Laissez vide si vous ne voulez pas de mot de passe
-   rcon_password "votre_mot_de_passe_rcon"
+   hostname "Mon Serveur Garry's Mod MTX" //chosissez le nom du serveur
+   sv_password ""  // mettre un mot de pass ou mettre du vide si pas de mot de passe
+   rcon_password "votre_mot_de_passe_rcon" // le mot de passe rcon
    sbox_maxprops 100
    sbox_maxragdolls 10
    
 3. Verifier de bien sauvegarder après chaque modification.
 
-#### Étape 4 : Installer des Addons (Facultatif)
+#### Étape 4 : Installer des Addons
 
-1. Allez dans l’onglet Workshop sur le panel MTXServ.
-2. Recherchez et ajoutez des addons ou des cartes que vous souhaitez installer sur votre serveur via le Workshop steam.
+1. Allez dans **Workshop** sur le panel MTXServ.
+2. Recherchez des addons ou des cartes que vous souhaitez installer sur votre serveur via le Workshop steam.
 3. Il faudra connecter sa key steam au serveur pour que MTXServ les télécharges.
 
 ## 🔄 Gestion et Redémarrage du Serveur
 
-  - Démarrer 🟢 / Arrêter 🔴 le Serveur : Utilisez les boutons disponibles sur le Dashboard de votre panel MTXServ .
-  - Redémarrer : Si les modifications importantes on été effectué (ajout d’addons, changement de configuration, chagement de la carte), alors redémarrez votre serveur pour appliquer les changements.
+  - Démarrer 🟢 / Arrêter 🔴 le Serveur : Utilisez ses boutons pour gerer le serveur.
+  - Redémarrer : Des que les modifications été effectué (ajout d’addons, changement de configuration, chagement de la carte), alors redémarrez le serveur.
     
 ## 🛠 Support et Assistance
 
