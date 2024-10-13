@@ -48,7 +48,7 @@ Avant tout il faut :
 
 ## 🔄 Gestion et Redémarrage du Serveur
 
-  - Démarrer 🟢 /Arrêter 🔴 le Serveur : Utilisez les boutons disponibles sur le Dashboard de votre panel MTXServ .
+  - Démarrer 🟢 / Arrêter 🔴 le Serveur : Utilisez les boutons disponibles sur le Dashboard de votre panel MTXServ .
   - Redémarrer : Si les modifications importantes on été effectué (ajout d’addons, changement de configuration, chagement de la carte), alors redémarrez votre serveur pour appliquer les changements.
     
 ## 🛠 Support et Assistance
