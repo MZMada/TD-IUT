@@ -61,4 +61,4 @@ Si vous rencontrez des problèmes :
     
 ## 🎉 Félicitations !
 
-  - Ton serveur Garry's Mod est desormée en ligne et il est prêt à être utilisé. Vous pouvez inviter vos amis à vous rejoindre et bien evidement personnaliser votre serveur comme tu le souhaite.
+  - Ton serveur Garry's Mod est desormée en ligne et il est prêt à être utilisé.
