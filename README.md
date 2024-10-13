@@ -38,6 +38,7 @@ Avant tout il faut :
    rcon_password "votre_mot_de_passe_rcon"
    sbox_maxprops 100
    sbox_maxragdolls 10
+   
 3. Verifier de bien sauvegarder après chaque modification.
 
 #### Étape 4 : Installer des Addons (Facultatif)
