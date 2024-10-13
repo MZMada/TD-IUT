@@ -21,15 +21,15 @@ Avant tout il faut :
 ### Étape 2 : Accéder au Panel de Gestion
 
 1. Connectez-vous à votre compte MTXServ.
-2. Allez dans **Mes Services** et choisissez votre serveur Garry's Mod.
+2. Il faut aller dans **Mes Services** et choisir votre serveur Garry's Mod.
 3. Une fois sur le **Panel** de votre serveur vous pouvez :
-   - Démarrer, redémarrer ou arrêter votre serveur.
+   - Démarrer/redémarrer ou bien arrêter le serveur.
    - Gérer les fichiers et les configurer.
    - Installer des addons ou des maps.
 
 ### Étape 3 : Configurer le Serveur
 
-1. Allez dans **Configuration** sur le panel de votre serveur.
+1. Il faut aller dans **Configuration** sur le panel de votre serveur.
 2. Modifiez le fichier `server.cfg` en ligne ou avec un accée ftp, en ajoutant les paramètres suivants :
 
    ```cfg
